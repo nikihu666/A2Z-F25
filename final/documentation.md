@@ -19,7 +19,7 @@
 - Ivy --
 - Yifan --
 - Junqi -- [Mood Journal](https://fuzzy-mask-71e.notion.site/COMPUTATIONAL-TEXT-A-Z-262480e9e232806f96c3f65ab685c294?source=copy_link)
-- Sky --
+- Sky -- [Gossip Podcast](https://tungsten-waterfall-ae7.notion.site/Gossip-Podcast_AI-project-29e3d345d4aa80589061eaca55b96367?pvs=73)
 - Thank you! 💜
 
 ## Guidelines
