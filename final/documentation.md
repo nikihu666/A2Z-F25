@@ -14,7 +14,7 @@
 - BREAK
 - Duban -- [DesignBot](https://dubanmorales.cargo.site/computational-text-a-to-z)
 - Fiona -- [Personal Chat Bot](https://fionahuang.design/)
-- Rajeshwari --
+- Rajeshwari -- [Emotional Landscape Chatbot](https://shocking-opinion-a98.notion.site/Finals-Documentation-2c356ea68e85806fb38fe99b05c4d539?source=copy_link)
 - Niki --
 - Ivy --
 - Yifan --
